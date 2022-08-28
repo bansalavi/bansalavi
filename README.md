@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avi Bansal</h1>
-<h3 align="center">A Upcoming Electronics Engineer!</h3>
+<h3 align="center">An Upcoming Electronics Engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalavi&label=Profile%20views&color=0e75b6&style=flat" alt="bansalavi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bansalavi&label=Profile%20views&color=0e75b6&style=flat" alt="bansalavi" /> </p>
 
 - 🔭 I’m currently working on an **Android Game Project**
-
 - 🌱 I’m currently learning **Android Developing**
-
 - 👯 I’m looking to collaborate on **Web Development Project**
-
 - 🤝 I’m looking for help with **Django**
-
 - 💬 Ask me about **Python,HTML,CSS**
-
 - 📫 How to reach me **bansalavi@pm.me**
-
 - ⚡ Fun fact **I think i am boring!**
 
 <h3 align="left">Connect with me:</h3>
@@ -41,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bansalavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bansalavi" /></a><a href="https://ko-fi.com/bansalavi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bansalavi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalavi&show_icons=true&locale=en&layout=compact" alt="bansalavi" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansalavi&show_icons=true&locale=en" alt="bansalavi" /></p>
 
