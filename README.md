@@ -4,13 +4,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bansalavi&label=Profile%20views&color=0e75b6&style=flat" alt="bansalavi" /> </p>
 
 **About me:**
-- 🔭 I’m currently working on an **Android Game Project**
-- 🌱 I’m currently learning **Android Developing**
-- 👯 I’m looking to collaborate on **Web Development Project**
-- 🤝 I’m looking for help with **Django**
-- 💬 Ask me about **Python,HTML,CSS**
+- 🔭 I’m currently working on a **Data Analysis Project**
+- 🌱 I’m currently learning **Data Analytics**
+- 🤝 I’m looking for help with **Flutter**
+- 💬 Ask me about **Python,HTML,CSS, Ardunio-IDE**
 - 📫 How to reach me **bansalavi@pm.me**
-- ⚡ Fun fact **I think i am boring!**
 
 **Connect with me:**
 <p align="left">
